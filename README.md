@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 <!--
@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 -->
 
 
-### Algumas informaçes
+## Algumas informaçes
 
 
-### Detalhes
+## Detalhes
 
 
-### Curiosidade sobre mim
+## Curiosidade sobre mim
 
