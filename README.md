@@ -11,36 +11,15 @@
   </br>
     <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/-GNU%2FLinux-red?style=flat-square&logo=gnu">
-    <img src="https://img.shields.io/badge/-Tmux-%3C3c3c?style=flat-square&logo=tmux&logoColor=3c3c3c">
+    <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=flat-square&logo=gnu-emacs&logoColor=white">
     <img src="https://img.shields.io/badge/-Debian-a80030?style=flat-square&logo=Debian&logoColor=white">
+    <img src="https://img.shields.io/badge/EndeavourOS-1793D1?style=flat-square&logo=arch-linux&logoColor=white">
 </div>
 
-### Algumas informações :octocat:
-
-Me chamo Franklin e atualmente estudo sobre GNU/Linux, criando labs com proxmox e tentando colocar meu aprendizado no blog.
-
-Em paralelo estou fazendo um curso de redes com o professor Kretcheu que aborda conceitos de máscara de rede, cáculo de sub-rede, DHCP, Ethernet, ARP, DNS, NAT, DNAT, Modelo OSI, protocolos TCP e UDP.
-
-Tenho alguns conhecimentos com Python, onde utilizei o framework Flask para desenvolvimento web no backend utilizando PonyORM no crud. Fiz alguns bots de Telegram usando a biblioteca pyTelegrambotAPI. 
-
-Sempre que preciso crio algum script para adicionar funcionalidades ao meu sistema GNU/Linux.
-
-
-### Detalhes
+### Detalhes :octocat:
 
 * **Franklin:** Franklin Timóteo
-* **Idade:** 29
+* **Idade:** 30
 * **Mora em:** Aracaju, SE - Brasil :brazil:
-* **Stack:** Python | GNU/Linux | Redes
+* **Stack:** Python | GNU/Linux |
 * **Universidade:** Estácio de Sá
-
-
-### Sobre mim
-
-A alguns anos já utilizo o sistema operacional GNU/Linux como principal sistema.
-Recentemente aprendi o essencial para compilar um kernel e estou aprendendo algo novo quando tenho problemas. Tenho muita admiração pelo prof. Kretcheu quando o assunto é GNU/Linux.
-
-Um dos meus primeiros livros sobre programação foi o do Nilo Ney Coutinho - Introdução a programação com Python, um tempo depois comecei a ler Python Fluente do Luciano Ramalho. Dai então li outros como Webscraping com Python - Ryal Mitchell, Desenvolvimento Web Flask - Miguel Grinberg
-
-
-Graças a Novatec e O'Reilly tenho muitos conhecimentos adquiridos em Português
